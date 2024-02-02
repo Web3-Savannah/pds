@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="626" height="666" viewBox="0 0 626 666">
+  <g id="SpotsxDots" transform="translate(-193 -207)">
+    <g id="YellowDot" transform="translate(193 207)" fill="#fcdc5f" stroke="#fcdc5f" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkDot" transform="translate(519 209)" fill="#e6007a" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlackOutline" transform="translate(682 209)" fill="none" stroke="#1d3239" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlueOutline" transform="translate(193 383)" fill="none" stroke="#059bfc" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlackOutline2" transform="translate(519 385)" fill="none" stroke="#1d3239" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlueOutline2" transform="translate(682 385)" fill="none" stroke="#059bfc" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkOutline" transform="translate(519 561)" fill="none" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlueOutline3" transform="translate(519 737)" fill="none" stroke="#059bfc" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkOutline2" transform="translate(682 561)" fill="none" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="YellowDot2" transform="translate(682 737)" fill="#fcdc5f" stroke="#fcdc5f" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkDot2" transform="translate(356 383)" fill="#e6007a" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlackOutline3" transform="translate(356 559)" fill="none" stroke="#1d3239" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlueOutline3-2" data-name="BlueOutline3" transform="translate(356 735)" fill="none" stroke="#059bfc" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkOutline3" transform="translate(356 207)" fill="none" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="PinkOutline4" transform="translate(193 559)" fill="none" stroke="#e6007a" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+    <g id="BlackOutline4" transform="translate(193 735)" fill="none" stroke="#1d3239" stroke-width="27">
+      <ellipse cx="68.5" cy="68" rx="68.5" ry="68" stroke="none"/>
+      <ellipse cx="68.5" cy="68" rx="55" ry="54.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+.title__wrapper {
+    text-align: center;
+}
+
+.language-image, .language-image-anchor {
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+    justify-content: center;
+    margin: 0.1rem 0.5rem;
+    flex-wrap: wrap;
+}
+
+.polygon {
+    width: 35rem;
+}
+
+.celo {
+    width: 30rem
+}
+
+.emergo {
+    width: 30rem
+}
+
+.worldcoin, .algorand, .filecoinFoundation, .visa {
+    width: 15rem;
+}
+
+.metaversal {
+    width: 6rem;
+}
+
+.cointelegraph, .kenyanWallstreet, .cryptorunners {
+    width: 14rem;
+}
+
+.utu, .impactPlus, .unstoppableDomains, .marcoPoloExperience {
+    width: 12rem;
+}
+
+.juicebox, .bitke, .banklessDao, .banklessAfrica {
+    width: 6rem;
+}
+
+.near, .coinedition, .asiatokenfund {
+    width: 8rem;
+}
+
+.encodeClub, .welook, .dsrptd, .impactPlus, .coinstelegram, .blocktides {
+    width: 6rem;
+}
+
+.bitlipa, .nuzo {
+    width: 4rem
+}
+
+.regen {
+    width: 7rem;
+}
+
+.honeycoin {
+    width: 8rem;
+}
+
+.sharehub {
+    width: 5rem;
+}
+
+.doingud, .jia {
+    width: 4rem;
+}
+
+.daoPlanet, .abi, .abc {
+    width: 10rem;
+}
+
+.media-partners-text {
+    margin: 3rem 1rem;
+}
+
+.language-image-anchor {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 568px) {
+    .language-image-anchor {
+        margin-top: 0.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .box.language-image a img {
+     width: 85 %;
+    }
+
+    .language-image {
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .box.language-image a img {
+     width: 70 %;
+    }
+
+    .heading {
+        font-size: 33px;
+        line-height: 40px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .heading {
+        font-size: 28px;
+        line-height: 35px;
+    }
+}
